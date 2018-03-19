@@ -1,0 +1,712 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SinglePostVC"
+provides-nominal:
+- "13Reddit_Client12SinglePostVCC"
+provides-member:
+- ["13Reddit_Client12SinglePostVCC", ""]
+provides-dynamic-lookup:
+- "authorLabel"
+- "commentLabel"
+- "postDateLabel"
+- "postImage"
+- "saveImage"
+- "titleLabel"
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "Date"
+- !private "Double"
+- "Post"
+- "SinglePostVC"
+- !private "String"
+- !private "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UIImageView"
+- !private "UIImageWriteToSavedPhotosAlbum"
+- "UILabel"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "imageFromServerURL"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Date"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- !private ["s7CVarArgP", "UIImageWriteToSavedPhotosAlbum"]
+- ["s7CVarArgP", "ViewController"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "authorLabel"]
+- !private ["s7CVarArgP", "commentLabel"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "imageFromServerURL"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "myViewController"]
+- !private ["s7CVarArgP", "post"]
+- !private ["s7CVarArgP", "postDateLabel"]
+- !private ["s7CVarArgP", "postImage"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "timeAgoSinceDate"]
+- !private ["s7CVarArgP", "titleLabel"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImageWriteToSavedPhotosAlbum"]
+- ["s28CustomDebugStringConvertibleP", "ViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "authorLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "commentLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "imageFromServerURL"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "myViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "post"]
+- !private ["s28CustomDebugStringConvertibleP", "postDateLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "postImage"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "timeAgoSinceDate"]
+- !private ["s28CustomDebugStringConvertibleP", "titleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- !private ["s23CustomStringConvertibleP", "UIImageWriteToSavedPhotosAlbum"]
+- ["s23CustomStringConvertibleP", "ViewController"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "authorLabel"]
+- !private ["s23CustomStringConvertibleP", "commentLabel"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "imageFromServerURL"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "myViewController"]
+- !private ["s23CustomStringConvertibleP", "post"]
+- !private ["s23CustomStringConvertibleP", "postDateLabel"]
+- !private ["s23CustomStringConvertibleP", "postImage"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "timeAgoSinceDate"]
+- !private ["s23CustomStringConvertibleP", "titleLabel"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["10Foundation4DateV", "init"]
+- !private ["s9DecodableP", "init"]
+- !private ["Sd", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "Date"]
+- !private ["s9EquatableP", "Double"]
+- !private ["s9EquatableP", "String"]
+- !private ["s9EquatableP", "UIAlertAction"]
+- !private ["s9EquatableP", "UIAlertController"]
+- !private ["s9EquatableP", "UIImageWriteToSavedPhotosAlbum"]
+- ["s9EquatableP", "ViewController"]
+- !private ["s9EquatableP", "addAction"]
+- !private ["s9EquatableP", "alert"]
+- !private ["s9EquatableP", "authorLabel"]
+- !private ["s9EquatableP", "cancel"]
+- !private ["s9EquatableP", "commentLabel"]
+- !private ["s9EquatableP", "default"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "imageFromServerURL"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "myViewController"]
+- !private ["s9EquatableP", "post"]
+- !private ["s9EquatableP", "postDateLabel"]
+- !private ["s9EquatableP", "postImage"]
+- !private ["s9EquatableP", "present"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "timeAgoSinceDate"]
+- !private ["s9EquatableP", "titleLabel"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s8HashableP", "Date"]
+- !private ["s8HashableP", "Double"]
+- !private ["s8HashableP", "String"]
+- !private ["s8HashableP", "UIAlertAction"]
+- !private ["s8HashableP", "UIAlertController"]
+- !private ["s8HashableP", "UIImageWriteToSavedPhotosAlbum"]
+- ["s8HashableP", "ViewController"]
+- !private ["s8HashableP", "addAction"]
+- !private ["s8HashableP", "alert"]
+- !private ["s8HashableP", "authorLabel"]
+- !private ["s8HashableP", "cancel"]
+- !private ["s8HashableP", "commentLabel"]
+- !private ["s8HashableP", "default"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "imageFromServerURL"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "myViewController"]
+- !private ["s8HashableP", "post"]
+- !private ["s8HashableP", "postDateLabel"]
+- !private ["s8HashableP", "postImage"]
+- !private ["s8HashableP", "present"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "timeAgoSinceDate"]
+- !private ["s8HashableP", "titleLabel"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "Date"]
+- !private ["So8NSCodingP", "Double"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- !private ["So8NSCodingP", "UIAlertController"]
+- !private ["So8NSCodingP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So8NSCodingP", "ViewController"]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "authorLabel"]
+- !private ["So8NSCodingP", "commentLabel"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "imageFromServerURL"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "myViewController"]
+- !private ["So8NSCodingP", "post"]
+- !private ["So8NSCodingP", "postDateLabel"]
+- !private ["So8NSCodingP", "postImage"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "timeAgoSinceDate"]
+- !private ["So8NSCodingP", "titleLabel"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "Date"]
+- !private ["So26NSExtensionRequestHandlingP", "Double"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So26NSExtensionRequestHandlingP", "ViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "authorLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "commentLabel"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "myViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "post"]
+- !private ["So26NSExtensionRequestHandlingP", "postDateLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "postImage"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "timeAgoSinceDate"]
+- !private ["So26NSExtensionRequestHandlingP", "titleLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "Date"]
+- !private ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "Post"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- ["So8NSObjectC", "UIImageView"]
+- !private ["So8NSObjectC", "UIImageWriteToSavedPhotosAlbum"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "ViewController"]
+- !private ["So8NSObjectC", "addAction"]
+- ["So8NSObjectC", "authorLabel"]
+- ["So8NSObjectC", "commentLabel"]
+- !private ["So8NSObjectC", "image"]
+- !private ["So8NSObjectC", "imageFromServerURL"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "myViewController"]
+- ["So8NSObjectC", "post"]
+- ["So8NSObjectC", "postDateLabel"]
+- ["So8NSObjectC", "postImage"]
+- !private ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "saveImage"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "timeAgoSinceDate"]
+- ["So8NSObjectC", "titleLabel"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "Date"]
+- !private ["So16NSObjectProtocolP", "Double"]
+- !private ["So16NSObjectProtocolP", "String"]
+- !private ["So16NSObjectProtocolP", "UIAlertAction"]
+- !private ["So16NSObjectProtocolP", "UIAlertController"]
+- !private ["So16NSObjectProtocolP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So16NSObjectProtocolP", "ViewController"]
+- !private ["So16NSObjectProtocolP", "addAction"]
+- !private ["So16NSObjectProtocolP", "authorLabel"]
+- !private ["So16NSObjectProtocolP", "commentLabel"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "imageFromServerURL"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "myViewController"]
+- !private ["So16NSObjectProtocolP", "post"]
+- !private ["So16NSObjectProtocolP", "postDateLabel"]
+- !private ["So16NSObjectProtocolP", "postImage"]
+- !private ["So16NSObjectProtocolP", "present"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "timeAgoSinceDate"]
+- !private ["So16NSObjectProtocolP", "titleLabel"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "init"]
+- !private ["13Reddit_Client4PostV", "author"]
+- !private ["13Reddit_Client4PostV", "postDate"]
+- !private ["13Reddit_Client4PostV", "sumofComments"]
+- !private ["13Reddit_Client4PostV", "thumbnameImage"]
+- !private ["13Reddit_Client4PostV", "title"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "alert"]
+- !private ["s16RawRepresentableP", "cancel"]
+- !private ["s16RawRepresentableP", "default"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["13Reddit_Client12SinglePostVCC", "Date"]
+- !private ["13Reddit_Client12SinglePostVCC", "Double"]
+- ["13Reddit_Client12SinglePostVCC", "Post"]
+- !private ["13Reddit_Client12SinglePostVCC", "String"]
+- !private ["13Reddit_Client12SinglePostVCC", "UIAlertAction"]
+- !private ["13Reddit_Client12SinglePostVCC", "UIAlertController"]
+- ["13Reddit_Client12SinglePostVCC", "UIImageView"]
+- !private ["13Reddit_Client12SinglePostVCC", "UIImageWriteToSavedPhotosAlbum"]
+- ["13Reddit_Client12SinglePostVCC", "UILabel"]
+- ["13Reddit_Client12SinglePostVCC", "ViewController"]
+- ["13Reddit_Client12SinglePostVCC", "authorLabel"]
+- ["13Reddit_Client12SinglePostVCC", "commentLabel"]
+- ["13Reddit_Client12SinglePostVCC", "deinit"]
+- ["13Reddit_Client12SinglePostVCC", "init"]
+- ["13Reddit_Client12SinglePostVCC", "myViewController"]
+- ["13Reddit_Client12SinglePostVCC", "post"]
+- ["13Reddit_Client12SinglePostVCC", "postDateLabel"]
+- ["13Reddit_Client12SinglePostVCC", "postImage"]
+- !private ["13Reddit_Client12SinglePostVCC", "present"]
+- ["13Reddit_Client12SinglePostVCC", "saveImage"]
+- ["13Reddit_Client12SinglePostVCC", "titleLabel"]
+- ["13Reddit_Client12SinglePostVCC", "viewDidLoad"]
+- !private ["s10StrideableP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageFromServerURL"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "imageFromServerURL"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["SC18UIAlertActionStyleO", "cancel"]
+- !private ["SC18UIAlertActionStyleO", "default"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["SC22UIAlertControllerStyleO", "alert"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "imageFromServerURL"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Date"]
+- !private ["So21UIAppearanceContainerP", "Double"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- !private ["So21UIAppearanceContainerP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So21UIAppearanceContainerP", "ViewController"]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "authorLabel"]
+- !private ["So21UIAppearanceContainerP", "commentLabel"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "imageFromServerURL"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "myViewController"]
+- !private ["So21UIAppearanceContainerP", "post"]
+- !private ["So21UIAppearanceContainerP", "postDateLabel"]
+- !private ["So21UIAppearanceContainerP", "postImage"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "timeAgoSinceDate"]
+- !private ["So21UIAppearanceContainerP", "titleLabel"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "Date"]
+- !private ["So18UIContentContainerP", "Double"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UIAlertController"]
+- !private ["So18UIContentContainerP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So18UIContentContainerP", "ViewController"]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "authorLabel"]
+- !private ["So18UIContentContainerP", "commentLabel"]
+- ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "myViewController"]
+- !private ["So18UIContentContainerP", "post"]
+- !private ["So18UIContentContainerP", "postDateLabel"]
+- !private ["So18UIContentContainerP", "postImage"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "timeAgoSinceDate"]
+- !private ["So18UIContentContainerP", "titleLabel"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "imageFromServerURL"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "imageFromServerURL"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Date"]
+- !private ["So18UIFocusEnvironmentP", "Double"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- !private ["So18UIFocusEnvironmentP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So18UIFocusEnvironmentP", "ViewController"]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "authorLabel"]
+- !private ["So18UIFocusEnvironmentP", "commentLabel"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "imageFromServerURL"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "myViewController"]
+- !private ["So18UIFocusEnvironmentP", "post"]
+- !private ["So18UIFocusEnvironmentP", "postDateLabel"]
+- !private ["So18UIFocusEnvironmentP", "postImage"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "timeAgoSinceDate"]
+- !private ["So18UIFocusEnvironmentP", "titleLabel"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "imageFromServerURL"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So11UIImageViewC", "imageFromServerURL"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Date"]
+- !private ["So30UIPasteConfigurationSupportingP", "Double"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So30UIPasteConfigurationSupportingP", "ViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "authorLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "commentLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageFromServerURL"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "myViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "post"]
+- !private ["So30UIPasteConfigurationSupportingP", "postDateLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "postImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "timeAgoSinceDate"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "Date"]
+- !private ["So11UIResponderC", "Double"]
+- ["So11UIResponderC", "Post"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIAlertAction"]
+- !private ["So11UIResponderC", "UIAlertController"]
+- ["So11UIResponderC", "UIImageView"]
+- !private ["So11UIResponderC", "UIImageWriteToSavedPhotosAlbum"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "ViewController"]
+- !private ["So11UIResponderC", "addAction"]
+- ["So11UIResponderC", "authorLabel"]
+- ["So11UIResponderC", "commentLabel"]
+- !private ["So11UIResponderC", "image"]
+- !private ["So11UIResponderC", "imageFromServerURL"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "myViewController"]
+- ["So11UIResponderC", "post"]
+- ["So11UIResponderC", "postDateLabel"]
+- ["So11UIResponderC", "postImage"]
+- !private ["So11UIResponderC", "present"]
+- ["So11UIResponderC", "saveImage"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "timeAgoSinceDate"]
+- ["So11UIResponderC", "titleLabel"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Date"]
+- !private ["So30UIResponderStandardEditActionsP", "Double"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So30UIResponderStandardEditActionsP", "ViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "authorLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "commentLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "imageFromServerURL"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "myViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "post"]
+- !private ["So30UIResponderStandardEditActionsP", "postDateLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "postImage"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "timeAgoSinceDate"]
+- !private ["So30UIResponderStandardEditActionsP", "titleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "timeAgoSinceDate"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "Date"]
+- !private ["So16UIStateRestoringP", "Double"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UIAlertController"]
+- !private ["So16UIStateRestoringP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So16UIStateRestoringP", "ViewController"]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "authorLabel"]
+- !private ["So16UIStateRestoringP", "commentLabel"]
+- ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "myViewController"]
+- !private ["So16UIStateRestoringP", "post"]
+- !private ["So16UIStateRestoringP", "postDateLabel"]
+- !private ["So16UIStateRestoringP", "postImage"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "timeAgoSinceDate"]
+- !private ["So16UIStateRestoringP", "titleLabel"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "timeAgoSinceDate"]
+- ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "timeAgoSinceDate"]
+- !private ["So18UITraitEnvironmentP", "Date"]
+- !private ["So18UITraitEnvironmentP", "Double"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- !private ["So18UITraitEnvironmentP", "UIImageWriteToSavedPhotosAlbum"]
+- ["So18UITraitEnvironmentP", "ViewController"]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "authorLabel"]
+- !private ["So18UITraitEnvironmentP", "commentLabel"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "imageFromServerURL"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "myViewController"]
+- !private ["So18UITraitEnvironmentP", "post"]
+- !private ["So18UITraitEnvironmentP", "postDateLabel"]
+- !private ["So18UITraitEnvironmentP", "postImage"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "timeAgoSinceDate"]
+- !private ["So18UITraitEnvironmentP", "titleLabel"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "imageFromServerURL"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "Date"]
+- !private ["So16UIViewControllerC", "Double"]
+- ["So16UIViewControllerC", "Post"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UIAlertController"]
+- ["So16UIViewControllerC", "UIImageView"]
+- !private ["So16UIViewControllerC", "UIImageWriteToSavedPhotosAlbum"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "ViewController"]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "authorLabel"]
+- ["So16UIViewControllerC", "commentLabel"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "myViewController"]
+- ["So16UIViewControllerC", "post"]
+- ["So16UIViewControllerC", "postDateLabel"]
+- ["So16UIViewControllerC", "postImage"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "saveImage"]
+- !private ["So16UIViewControllerC", "timeAgoSinceDate"]
+- ["So16UIViewControllerC", "titleLabel"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- ["13Reddit_Client14ViewControllerC", "init"]
+- !private ["13Reddit_Client14ViewControllerC", "timeAgoSinceDate"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageFromServerURL"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Double"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImageWriteToSavedPhotosAlbum"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "authorLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commentLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageFromServerURL"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "myViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "post"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "postDateLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "postImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeAgoSinceDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "s9DecodableP"
+- !private "Sd"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s13FloatingPointP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- !private "13Reddit_Client4PostV"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s13SignedNumericP"
+- "13Reddit_Client12SinglePostVCC"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "SC18UIAlertActionStyleO"
+- !private "So17UIAlertControllerC"
+- !private "SC22UIAlertControllerStyleO"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So11UIImageViewC"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "13Reddit_Client14ViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "6c4c271f548100f8ba09cbbdbf75e80c"

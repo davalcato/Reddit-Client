@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "aa4cc3c0381a2e2d6161d8dc94249ff9"
+build_time: [1521426148, 956082000]
+inputs:
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/DataServices/DataServices.swift": [1521423651, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/DataServices/ImageView+APIRequest.swift": [1521423672, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/Controllers/ViewController.swift": [1521426139, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/Model/Post.swift": [1521423856, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/Utilities/AppDelegate.swift": [1521424147, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/View/PostsTableViewCell.swift": [1521426142, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/Controllers/SinglePostVC.swift": [1521424990, 0]

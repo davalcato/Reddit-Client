@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "d8af876355793d4837cafa4201b6fb7f"
+build_time: [1521423423, 861079000]
+inputs:
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/ViewController.swift": [1521423419, 0]
+  "/Users/davalcato/Desktop/iOS/Reddit Client/Reddit Client/AppDelegate.swift": [1521423419, 0]
